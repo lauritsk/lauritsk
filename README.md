@@ -16,6 +16,6 @@ Primary project right now:
 Other projects:
 - [hatchctl](https://github.com/lauritsk/hatchctl) — CLI experiments for development containers
 - [budy](https://github.com/lauritsk/budy) — tiny budgeting assistant
-- Games and interactive experiments — small projects for play, systems thinking, and learning
+- [games](https://github.com/lauritsk/games) — small, fast browser-playable games built with Bun, TypeScript, and plain CSS
 
 [GitHub](https://github.com/lauritsk) · [LinkedIn](https://www.linkedin.com/in/lauritskarl)
